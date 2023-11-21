@@ -1,0 +1,95 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Evaluation period
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Evaluation period
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Evaluation period
+    internal_properties : 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
+    configuration_id : 7151269271821445476
+    type : 1
+    generation_name : WD Evaluation period.exe
+    version :
+     version : VI200050
+     autoincrement_version : false
+    icon_filename : .\lock.ico
+    language : 2
+ elements :
+  identifier : 0x4acc52f500118e4b
+  elements :
+   -
+     name : WIN_Limits
+     identifier : 0x3db50e963ed5a87f
+     internal_properties : CAAAAAgAAADcujRgXwQsP4bS4OjrOMK+dhVN1fFRvN/XUR9Ow5gELMReaQzx11df009Jt39xCf/JSQ==
+     physical_name : .\WIN_Limits.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x3db50e93144ea843
+     internal_properties : CAAAAAgAAAAOFGa6iTZ+sbTU5uL969jIeAlH740F9kyNLNyJFBf9M8Vd8vMf4V1l1UG7BY1DP7EbGw==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_AskFor_ActivationKey
+     identifier : 0x3db50e9439cda857
+     internal_properties : CAAAAAgAAAB10V1BfttTDNHhfx9KmWdjZxBC4nTEBz/lWIzRUhn9M8lnhm+Sdujuop4Y4KBQKJhg4A==
+     physical_name : .\WIN_AskFor_ActivationKey.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      sProjectName is string = ProjectInfo(piProjectName)
+      REGISTRY_PATH is string = "HKEY_CURRENT_USER\Software\PC SOFT\" + sProjectName + "\ScribeFile.Config.Parameters\"
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Evaluation period
+     identifier : 0x4acc52f500178f35
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : UWA API1
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

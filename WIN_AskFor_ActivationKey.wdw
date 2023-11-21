@@ -1,0 +1,313 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_AskFor_ActivationKey
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_AskFor_ActivationKey
+ identifier : 0x24de1399024e402a
+ internal_properties : CAAAAAgAAADXdXFvrMEzMYqT7sG3DeK7E5LsU6XmeSZYv2GIfZRHfzzSRLJQWeW3FLslNYDhmLFwWQqa1kNWo1XxFqr5PitDZL6CvOymeqzjrPKyU3OmelLEXKBsCd1tZDrFw1RyK8UP1bo/Q+pPg5Lm8y8l4veszrRdM3Jn6tno8x5EjhanDW6j0bGbTdrbIRriIdIl1hId+IbOJMXbqkp/u+9gXsMJbGs+S5t45/GJ8E8uGqAyfyrnKSt8DcPmxnIW6fVJTwl5suyiXG1B4Ay4pFefMGX+btdnoxwZiquIiujQhIjPFZ601Ky3RBa6etoa0CCm2ypuveiUPxeO9dQPPh+Y7vC8zLec1MuhmYD8C5tDLJIbkw8pEa8rawfAS2c2/EXhSwg0/UtI/PGPtPaYr2oZicyXJ1R37eZbOSygidXZ/JTaVb85qWjrUBov6oQe2SpypT/F8sbTzD9so107V8qObZB/TuIljLer/j467O0/7LQm7oTlyYRzPBaDKMNGfnKS7FMg+THr7mxCFOBJF/TlE2cQAldJ4N3KjbFtKbU/8gvSQ8Rl+3QvCx90+yuagHekUYk0gCpPipdRYuq2NbVP6JdecXoWKh7UMiAJJc88a1RZvzVyevd7kupOzbmVtpwtHhPX3VQ/eGXC2LGp3I161hb77Wbp8n3V7H5BXQ4UDVbhwA1HTWb5jbAkc8i6a36Dg17baIFa7OljFwvdVr7oruMor6SHG1lbsQSXhTmonLRyxfyu0kPNGc3v0rLaThlFNq7wDwJMSo1duHs6p31FDkkfs9hU
+ properties :
+  x : 120
+  y : 50
+  width : 590
+  height : 387
+  widthClient : 588
+  heightClient : 355
+  widthMin : -4
+  heightMin : 0
+ controls :
+  -
+    name : EDT_EST_ActivationKey
+    identifier : 0x24de1399024f402a
+    internal_properties : CAAAAAgAAAB+6GCAyF/1Syxyda2szOg3jrSZ5Hef2ZtW/u2Lx5Dz+rftJlaTFRbGrBU3Ng5MdzcHFS1Xo1kmCiDOJl3BliX0unGd4CRBX5SgBRiErhp4K4ubZNHnBMZme12mgucpBIgOeZDdwwuzAqN6cf+8/pV/7BKW7blZP8Yhl0UR2fANglHbE2yrIx4E+zKHg137z+buAq+FaYcpRGXl1yGekmaMQwMBjiFxeELJ6WAHHxaOb/j4860WVB/P2YMMSbCDzvy3jPw0mK9imEXvsagUvbIVgwORMe8ufRSg/pDDZ1xJJIDQZ6a73LKtkTsyl2VeHohxS7QZLlbOdGxcxYyNwajX3/49N6JctY/z275IxVnibAsqk8NiD+XHmULh6HuYw+Vbd+uYU+98N0vwrPuYX9A4s0g3RpMNGuTFjsHaDAvEHG3HWjtQ5J1F3vkeCj0Kug4glzRWL6yqBNGvb2SiH/tPTfYZVpm5tnR50i5kPsXstQA75JN9cwOoRMTzd5eJXlymG/VQptLY19qzCpRsGY3Z8hN32k8Kj6wHtVAXzjo2D/j73/G7mHYkr9xsODO2GxfZW28u0D7IE0bCVEDaSceGpf1F/7HQmtcR8vQ8vdGwY/oy9KHeQYM/68ZpVtEY3VsFH+q/40TJvSOVa+M0nRi/185H5OJjWrYCxN+UyQtHezE11MxsH7qEbtGqHyqqpzf1aNZbeJFfap0MMYhJVAqTYBPe8SJzYyUMlJy2tMihEcoleRpjIcUlLCIUnY8E0zLCyu1+NYGFU9ziUu0LNGUQPvN47q5108RTKTTDqFVIdoUfkcaqk4Y4AlrNDuabczitAtcpDn1wmglAWKdnsTw1jYuFDvxkLfsCvZ7kolixgizGFoj639qUySCk2mLxKjYkxM1I1lSp28NuCutP35cUW8Z/Zk2XEsQb2Qq/2mY9yl50pcCTZZIGoYdXNo/4zU33NMFWrQXCjlLHzMJlSyXhEJhCBPS4RUuqsK0P8/nu3nI1mr5uFpQ8WegB0Uz4gixVEJ0VuPqAID7G/oUHFI8gS+LWQTp954KtSwoE9mqTg3bxcXJXSWFBcNV+DT9EFOfR6cPRkOz5CBloinFi1Rb+nDbZulglPwzJCFhh1WLghK2HsJPu53P6bGQ3oYiue+vgl6TmrI0znMuRNRzGfwP8eaqQiAvjHTUNeTtyFOXZmVJvF5OI3GPLUj94AZFpqJ+j+BySckQDAB/uDe/qAcIhKZLDQt8ZcHUaoocj7pfK9nT9TdAnFoVqCNu0sMGhUzGEqVAqdF1TAlSb0iMCdeb+tCU9PbHQkUH5nlVhEFh1oSdoWSq7P9tU2ZZ4u3u6fVpRXS8KfqpJFQuu3ZMNlEq8E/tpdtJ6jDq+jag3
+    properties :
+     x : 63
+     y : 271
+     width : 376
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : BTN_OK
+    identifier : 0x24de13990250402a
+    internal_properties : CAAAAAgAAACll+pWJ/bO1HtC6fqkwJlf2H14J4opNU7kG51gLKx/f5XwENZ2wbOXIzGBU0BFtQeLaMp2wzpohhTfHYo8ur5qcrnDNsXOCQmoPz6WEVxhJSemX2JgDaUYP6kFXAKCvOCQaXLy+sZOV5E4Es3Iz1UNKriVLWPcOUI3EfI4mvQIgBD8OqPNUPcTfCTFZQKuSUvaIlmtPq2pTDKXG9I0ARcHnOgRpPWPFJSBJSRTIeF7GKctfVdnQYvpwpnt+17RIEGmZLuHODTQV1Bpx+nMz/Y+iYH3oCMTdaFL9slpccOmp0Zw0E3SZnDfqJOALwL76allWdocS2km0DOnSv6m8K86u7BJnNE/LOc0ipFBghlQI4Yn/qdjuupvg3XCSBufDYTVoEeZivekaYOcI/qQd2I6Exmxcq/6n02iIO1fmRyU2mTOvQ7sJmdu84R+Iwl7bAATzMAr1BG8sAVea9zTkOHMTrUDpLS2055hlioWMaYLQB7B2YppDEUot6gTICw3xbMWEP+aHSgPtGIjdbbigP+EtBAbGneNEQlLZUOFsafT0jg1t9KkAXk/KAId9ybPrG0Na7UI+LuksAu06vFSe+Vc49yi/MLMomCA3U/Ewq2uK7KXbQ5gG9nZTCX0YXUaJpE7FNAkkX/BWVzKrvjtjh4HXFE0wVG83J2PzhJSaqstYmqiGVtGq6oxLe6d4S9ZLmTvxUYXivK8NlNcK2oGU0jJ3YYrUgnH8GNRpLQoEmhhsKg3sxor32tZxWAXilm3MkJvXBz9RqseRR2TGrJ4VZDu0r8Y5y/OhwSdLfjw9mwWxaaAjuNXbftrZEfmy7J9UCRUuf6IZ7yoLLdFkAkdcQrQUlMc47v0s0PUQrym3wCD/O3NbaakMWMuMNiMdyglZXgFqqY=
+    properties :
+     x : 445
+     y : 271
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         // The consistency between the serial number (or initial key) and the activation key given by the provider of the application is performed via the KeyCompareKey function.
+         // Each "initial key/activation key" couple is valid on a given computer only.
+         
+         // If the two keys correspond
+         IF KeyCompareKey(EDT_SerialNumber,EDT_EST_ActivationKey) THEN
+         	Info("Thank you for registering your product")
+         	MyWindow..ReturnedValue = True
+         ELSE // If the two keys do not correspond (the user tries to enter a wrong activation key for instance)
+         	Error("The activation key is incorrect.")
+         END
+         
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Explanation
+    identifier : 0x24de13990251402a
+    internal_properties : CAAAAAgAAAA/zsj42iLdJMMdym0WGdwJ/cAtXdLKbahsTe8OtfKeC21VTLz+BCzVucIWT0WmchKMpdnXkApWawEuSMqiyyvheNP+VCMiYwjdmlbFlQ7OK/Mt1VwszxRElpOqXivQ85ldHVlw9ACU50O/YY6ngMqljhatX8BvGG8HVw92ckD21yqcFDQ6/supotRa+j1XXSpLDoy5MMU0xIK9su+89/UoXB3r8tX71aca5EqvLKmBIPzAgQ/V8gy4zHORO5FdIC2YHC+KkgxXzl8q/NcuzfF9cu8QmWjOeXSk4/qiLCLR6uI2kdMljKqDv4L+02NanKncf2T5mhFS84YXyWLKQaLvlbahoNcutnrL0zDriKa6BJSluMyj0Yy+6fi+Hg0SYhwshvUXUwVSxBhcrE/CyVxrHBNwExW9TOybwd6Bso/gys2eFONCIp+mU7WgyGX+t8e/fbPS6SZ+3MaMTMSfcqsqAtpj9EKP2nUv/hpf1AXFG+mxNO27VfXQPRForPvCK9MeihM5rWO3Saps+HFB3NZuAxactvoavxzm/r2Yh+jJ8XMF5syr6nU1fzMl8hr3G7u0RMDAgfTqw2ZNmNj48+Emx0sDIzL2Zk3g6Zs4y0AdyFDW4J++JhRU66nMUcHL2CQ5
+    properties :
+     x : 63
+     y : 110
+     width : 462
+     height : 37
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : EDT_SerialNumber
+    identifier : 0x24de13990252402a
+    internal_properties : CAAAAAgAAABV3YhufklIH86JQudFNuo1QEKQm8T6iOFQTwQo0gGyB6lP+ph16hs88Gc3NVRLYEU/XQU6BQeG/HaSOPzMJHW/jFROVs2kXpdXNHSRCj7v0DvPLjvqtuw9Uyy/W3tL0D0tgWe5Vw3qEixOv2tVtWyq05fk97i9q0F6ecJNXmWCoSZjGbDxEnXsy7SpRFCP2ezr+VWVoMhDoFE1unQECc/NA11wX2R62fRxW8JFAhbM+3XzaScOYBwqx9zzdV0YqZVY06kYJ4x9Di/9jLts+7IehxbGE2osOi44hnoU3GTwko0S05gLWoQZYk7Pvri+s+8HrluE1ibESqjcixLEz4FSO+z8QmLxUgIOW+m4E61xceOYYiItFFqFhw7QLcybtQjj+ED9kXDzHD5oAvHvYAZeyg9Vd+hAJeJ08s1g8j9y+QlunProIdSHP7+pBcqHub72YWvtict7kF4Vkyk6nfOEJnVkcSqMqY+blmEDqKGyf2ZTLWkLTtvyiyz1DgIk9w3M0ltEtB8RyvrkFKM9vnx4E/7CWDWtk4/zypicRuJDsRH3fsd6W3JECy/MlsA+mWhn127FiVcriS2xAHKrNtN8kP6JikE+gC2SyNtLmrqi44kTEmSkq3Gv4HU0he7cMLqP3T7y7RpC5orJ99IoP+EEizabcO9IqzXjC+4umX2Sualf4It/UWn2uaPimEm0XM2/OFsklS0Qyhbk3wUQcjsvWIGx6j+1fHFtvrx7e5iW6ZaPDm3mlZpHZy4ugkKo9mjcir5PTnNyH9VUir7KfkLcTiVluwkb4OL+pUryxe91gKNriD9jfUe8/Wx9E8lh6BCRmNQOA8lXkGzi0Dr0eaE/U/M+ZWe4rpkj/1r7RyggxOJu//ORq4+GUlpUefm/kTxGnP7ZR1RkpUTgKmiUjyQKJUKOrzTd50zM0zaeD3hgvmZmfrl6zekwOlexyxgW0vtZVJrvOBvNhg8zos2y48KZJM4Bg5+gtNlLqIdElu+ztpaHQ8dZxMEWqsBvUjVYUZofEEjC5QBPLlfghv6ijtRSac5HFHOz5DK4hXL9zdji5Yzt/q9gF0Jhb2WEYlAc6V0bcf5+L5xG+FTkvCiTK4WAKiowj11Lrj5A1qTqcnMUl7hocm5GCim4uWiSZ0ZlAmUAHOrr3mjHoR9gBVyVnNmyT54Zn2q52Pa5sv5EaPwyiLcmTKBV1miDUVcuQCZv/cen6pHZ/yRfYcNZsns2egkXW/a4n3oTsx/oWKuHsug46alrANtBjedrm44xmPGcueK/gehXUhCeX34eEe+vStU3yxbbwpB1Ttm6md/iN21WpcTzDuEh+AzG+wm8Vc7LeN6Qb5eKmgjuw2zigG4giPxIp3FvqMrGgFtaft66Pg==
+    properties :
+     x : 63
+     y : 61
+     width : 376
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         // A serial number is generated on the client computer.
+         // This serial number (or initial key) will be used by the application provider to generate a unique activation key
+         // This serial number must be generated from an identifier specific to each client.
+         MySelf = KeyGenerateInitialKey(EDT_CustomerID)
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : STC_TITLE
+    identifier : 0x24de13990253402a
+    internal_properties : CAAAAAgAAACkVAQiQE9JFMaeteeUPF1uLNRWsnSngoa19yC4dI1cJegSzK0HkzkpKIg7yfqyVzZzvi0HSlPta3Wj2Cuj2oMXUfR/PFZdv0i9eXIXrv+1h1UArgCPnI7EoTas/QIvnFKQOlrwKtCOlCBJYim3sWVgKa/dmtC12OKf2j1td48WQEEYLCJfTlvUGEFBhEk9S3h+gL1+Kq/DXKr5qW6lc1VnL8T+ZKR4+F6AlWMJOdLNeL1CmwUWQ0CNZfUXiE5RAPkVEn9Rk4wDXWH8da4eXpOUdvnGMxVkvDMjWn/dtxXT9jrQt/Wb4QHNUeX4Uw3nNXAVPNyabYtgEDEXKEMibuYuluWJD7ZMghCYurnVb6LTT0NT6FPdePw9EIVtkfPAfPSHvFWFQYV+ujE1Q5PE7ZnAwgXh289StMyvX9aQVPE+qdVv1GvvdBPzD4O286E5oldgjas0NZH9yEGq/bYga1gcb8bzBaUxlRo/wA6XlF7Sww2iuKWiocNDECFZVQWu298R2b6ciBOErPV1vcM3
+    properties :
+     x : 6
+     y : 6
+     width : 515
+     height : 27
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : EDT_CustomerID
+    identifier : 0x24de13990254402a
+    internal_properties : CAAAAAgAAACv0h0AdJRNPUw3bQfwiEcZisS0/6x/6aRXhgKDFG0aJmz39OBRNoxTl1FOwpfSZjn8Zk6lvbW3Q+7yakfAa+41/BG6n/aaX/1nYoPa/xau3vcqKfKPufgfUkAx4/9v97790gR83R+/HWyRza4mmNdj3MFQdDLgi0+7KMTlgkQYr95avwDzuC7KIeWdv/Qty6fdTUF96z0Er4l2T5Pdhfgg8G2L6yHnklwamu50g6Lduvcq7DxzjvHShkVtxDUXZ7ecpZyKsNBRhbpSd9Svl9V53wCVFrvApdbUL7vAzBDBFcZaVP1mMh5dGEedXHoGKjRsKbMj2yd3qGTTNb6XZZOSfdsGfV7q5ijF6QjCoR/OlNHt7oL6jPNhthmtE1uLekmbnDzjH+PDx+l562BGhnM/g3YKGMUwu0x8wkcA1JDeqbFwfENHOOMeRxh2XEJH8BrQCyxEHJk5U6izbcrDtoJ1BA4XF8OIG6OPq3FR+zctLEuvcqXnfxsMfbjOEXf/GQouLLFWkSd1tUuSAuO9ku+kmRNxbK5ZhRFloqIA/48FidYOoOv/Igg5pikTtw8KADR9ilOLFPZd02j/Ox0ofgjBpbYxxMi0/69/O0wAmceddgFQnUmDakxyJZD201us93gRnew/QiquNUHDwTdOUUpbCBAB+79WuoZcaC8DLqwhpcBz6E6r48YWBhsksxFsGS8qf4Rb3kO5kJwq6uXLKjldKGMhkmhuf1pPPSZ9W1gn0muGbej0grPaWu7NV1iNCXCmvdYdX1x+oABkXwj6VoaEtbjL/lq9eDOgLgMK0/qek1ZjFY3WqjGufF29IaACZF82rpdEW/wMlj2jH7o6QQKPbGnNvD75iEQjS3WtOk9VQeYVKNKdhjr3DgnduWgzqjrUSZsbKkpdng8/Yy4Zca6h3aGebeKc8pMfVBb4bZ9nH5qdcbS9rfV3JdM7sBY0LW8/KLVYODtYDd4onIxQExDJq/sEjBi1XcwUYj7FBbxY70OGd7W+OLZby108LkuCKDrq6QuAQL8PZkDD8p62B/16mBzu9170cn5YCoz1TuP+Qa6XOHDtDNSPMNo99clGJvHWKK74hYlKBvgi14iY8Yf4HkmAUGllsMYsiIbxO/A1jxQFeAIeZhF/iWtZdtL+VwSxsaxAW89wmlp+gdEE+wKU19whAcqKzlW1aR2KJTWH4jrTg8dwB6XYPhSlxjAo404dNQ1jBEeJbWGWAST/UgrTl6h+Sp5LUTIz3qeWE2Dj0UaDHYPNZ359cqXULwiTVOgfw3P3beAgSdT+ZHxRnsR5nYW53o5GEdJd4O5zch7TlAmr9GFiB/LQKECWPTQ+xw9XXrgKMd52f/NGjg==
+    properties :
+     x : 3
+     y : -55
+     width : 111
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        code : |1-
+         // Proposes a client identifier by default
+         EDT_CustomerID = 145
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_Generate
+    identifier : 0x24de13990257402a
+    internal_properties : CAAAAAgAAADhIrORvJjs5SSOqJ52dfns8lMIRdh4RcctwprMb+oo+SyKl8qnKgkiG9WvnZmfVm7hpXI49XsrPDwZ+0fH+OUadP1mbNnuDCZyY2VOs622gTBeDL/GrlkBjbaEtTNN6xS2uMCj5MiR9vzTJZMc46RFvC9ylQl0/fbKefC0l7KGDUtIzNXbReN2bQvJV6BE1DEEveP2qeGrqVwXTr17jiDniRYhEh/iWIoxkPZiJvXovVZ7ZBVzmEghyMrpMysaEUDp3cmi6OrtUuXZpy/IoYqUtu1HTbfD+m1dcL9HlKFve3ahCgJP9rrnIrPdAkIuFWS9uSqBMiPWGBQk2hHcpqkEk6dN5NUR502+PVPAGsXxKAHUS11aPrsTEJPBfJjyMYDqc3ru+B+omjWG+Qx/05iEi50QLhC8OxKCtG/sDAiOqu0lQUfmA5oAozUILEyixzZYhIV24AGKZAF8me+R3ET/fTPyyIGe09VseHkq18DqZmchHryrHxv6pcLlhNdKMPRIxz3TcMbQJj9rBVVZxZssBnRJcjEb23wLyURPT4cLcbXL2NaRJy/KCQViyTEF6dFd5qMVUcgVSoem6yH8LslPMuBHQGQ3+HS3R0qFyTn/uq5kSeE1unsIafaHdH+ZRteCwrvoW8RD4iVOYuybzSsYwUB8IhlvMZ0YYD4X0OBK6A2JOrJMdAIz+Gz3MhasSqzuKSXzEJVVoTq2636bHZ9YwLz5+zz5GKdcmpojmLIpuYn3yst1LHb0DmgnBfioQJue+NKe760204CMyN0KaH7owFMCZrh93v8IRxkx9wN/dc0dpAoq+I+uQuP3jj1gmkrZCREhvezcQR6gvB0UAuI/VDLne3Trmqur6gbIbBxcuFr2Rek0rXt+3ee/Oldrvb8FTyJiaMPOJg+brbww1k1txHQhQMejlOcqsN7HxvInLqZ2Axj/KqPhWlLc6Z1evJGrxB6CPeR0Mr7D6pCyAPr4t2ExR9SbgF4/20KfYuoU
+    properties :
+     x : 445
+     y : 197
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         sIdentifier is string
+         sEST_ActivationKey is string
+         
+         // The activation key is calculated from the serial number (or initial key) supplied by the client computer.
+         sEST_ActivationKey = KeyCalcActivationKey(EDT_SerialNumber)
+         ToClipboard(sEST_ActivationKey)
+         
+         // The identifier used to generate the serial number (or initial key) can be retrieved by the KeyGetIdentifier function
+         sIdentifier = KeyGetIdentifier(EDT_SerialNumber)
+         Info(StringBuild("Activation key generated for the %1 client: %2",sIdentifier,sEST_ActivationKey),"To simplify this example, the activation key was copied into the clipboard")
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Explanation1
+    identifier : 0x24de13990256402a
+    internal_properties : CAAAAAgAAACa0cXvBz2yk4LCd3GIr/j3QUFAoD/8OvJXqZ4VHYJ4fBm4K/3be1qzc3i2PVlMYtD8G3+PqiyqLpVo17LCg4gUObwThMuuXq3ybD6XutCnky+8uHI1CFULiL3528XJRrEYEUKE9LmOgxX0jE5nfOUonvxHwDsNoQiHY+cEylalv/rg9CDITCZLlsKBUJnW1WflU+mLAF6XUTjlWJgRyGZHKTE2SEahLHXcOhFMi4kAcFVD+ufuHWWWYq9Tw1ivRJZcoFw3t8Iv29wpGOqoQFQemeqlANbXrIVEEakt73TE7bWZDqAkCUMvtx7m2BoEOxTYGsqqf5BaPwLAIqR5+XgufuIQrnFavxt22zvRYUzWCbGbacQEQ4oxqJH5rdDKoP56jk5tBC1HkEY5UTF2S4AGzS0jJuGXhnCdVTkD3hpJSEGhqyZx1YNICyaQv1Mh3pEN8gurhiFW9cujQtxJW36EIWHlO5sLBDN7tSUPIYPnsZvKWCeGzQd/LhXNeR94Pd04WyT1yYueaIUFM6XTBF14SdnHPxMv7Sw0HrC91hP+eTWkvpI56CvHX+c77YqV3a6RfJIkeRb86cfKaKTaru6bQ1hqcpUnWWkh4NIaKpczoZxP9KQsiOjceA6nGIPelZY=
+    properties :
+     x : 63
+     y : 191
+     width : 361
+     height : 37
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : STC_ProviderSide
+    identifier : 0x24de13990255402a
+    internal_properties : CAAAAAgAAAAMsV+Zyn/SeOkjJXE0MI9qQTg0UPfNMw+0CcB9VysGBZWUPqFAcfPxQ6LQ/93RHnwT7jDkgNZrjiSFZJ2fVrIBKle4QhkKOgbCeolcXd/qJDjJcli6WQ3s4TrttvPiFv3ZRgLUvuFSJJPZoAjBObi+dKAj/fkam/VYBIECrE6iPuKnhxoxco7T5eEKbjGh+nflIfEpdEq/C5CfLckXNtRNjK3G2ZqOwElrWTzS3ooqK0WN2HWC2ujl9qjoQQskPU46LftIM+zFvxf0zgsFEzmqJW/GaPHDHf1LgYXaYUfbEBEhMqS/R9drSgJRlIEH2G9xQASYcMYYrHGTrT/325S9ObiOaSjDIafVDjx4O8X+WIgLWnFnWH2RwxBUXPeVHzdSGeRGNlATYVi+7hJD+ftxviphciF1KME1WS//kxK6WjN9rwfZZnvQkw15JkMO59evVYB0Ms2CtPVDhmSBdUYC4X2pM5KN/TlVMSICXbc6BRTaJscp2CCeJJxURpO7PAB3azhp5R/k7Tk/RTlAQazN/iEfzf+wg3/OZg==
+    properties :
+     x : 6
+     y : 165
+     width : 576
+     height : 77
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x22affd5353b701f2
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABSlfoQ6pgsAUPxaXqVirNucaANUh+WQ0mIYUg4IFu5hQI16Vx+QPTcQZkiItAZywE6f/HbJY1puUVTHRDo3Rhw+eMXPVeO50uYkHjAsg4Un7ZncqC0ZANoqNYvVnHmQdI=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADIw1Ujd0Gp/fDq4oTG2Ci2IZHUC01SRkrvzBw5+a4edYflh54AsN+9XWN3y/aOaLVf8fQFo2P3YG7/EOls2wldzA==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      FUNCTION WIN_AskFor_ActivationKey()
+      
+      MyWindow..ReturnedValue = False
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenDemandeMDP
+resources :
+ string_res :
+  identifier : 0x3b2f6540333844f6
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
